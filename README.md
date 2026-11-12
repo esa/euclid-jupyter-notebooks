@@ -1,7 +1,7 @@
 # Euclid Jupyter Notebooks
 
 [![GitHub Release](https://img.shields.io/github/v/release/esa/euclid-jupyter-notebooks)](https://github.com/esa/euclid-jupyter-notebooks/releases)
-[![License](https://img.shields.io/badge/license-see%20LICENSE.txt-blue)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-ESA--PL%20Permissive-green)](LICENSE.txt)
 
 Copyright (c) European Space Agency, 2026.
 
