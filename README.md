@@ -1,5 +1,8 @@
 # Euclid Jupyter Notebooks
 
+[![GitHub Release](https://img.shields.io/github/v/release/esa/euclid-jupyter-notebooks)](https://github.com/esa/euclid-jupyter-notebooks/releases)
+[![License](https://img.shields.io/badge/license-see%20LICENSE.txt-blue)](LICENSE.txt)
+
 Copyright (c) European Space Agency, 2026.
 
 This repository contains **ESA-maintained Jupyter notebooks for accessing, visualising and analysing public data from the ESA Euclid Mission**.
