@@ -54,7 +54,7 @@ These notebooks are maintained by their respective developers and are not mainta
 ## Documentation and support
 
 - [Euclid Data Space Help Pages](https://euclid.dataspace.esa.int/community/help-pages/EDS_Help_Pages.html)
-- [Euclid Archives User Guide](https://s2e2.cosmos.esa.int/www/euclid_iscience/Public_User_Guide.html)
+- [Euclid Archives User Guide](https://euclid.dataspace.esa.int/community/help-pages/Euclid_Science_Archive_User_Guide.html)
 - [Euclid DR1 information](https://www.cosmos.esa.int/web/euclid/euclid-dr1)
 - [ESA Datalabs documentation](https://datalabs.esa.int/help/Datalabs.html)
 - [Euclid Helpdesk](https://support.cosmos.esa.int/euclid/)
