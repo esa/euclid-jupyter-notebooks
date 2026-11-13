@@ -18,7 +18,7 @@ When the Euclid App is launched, the notebooks from this repository are copied t
 my_workspace/euclid-jupyterlab-notebooks
 ```
 
-To get the latest version, delete the `euclid-jupyterlab-notebooks` folder from `my_workspace` and relaunch the Euclid App.
+To get the latest version, delete the `euclid-jupyter-notebooks` folder from `my_workspace` and relaunch the Euclid App.
 
 ## Data releases
 
