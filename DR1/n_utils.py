@@ -1,9 +1,9 @@
 #   Copyright (c) European Space Agency, 2026.
 #
-#   This file is subject to the terms and conditions defined in file 'LICENCE.txt', which
+#   This file is subject to the terms and conditions defined in file 'LICENSE.txt', which
 #   is part of this source code package. No part of the package, including
 #   this file, may be copied, modified, propagated, or distributed except according to
-#   the terms contained in the file 'LICENCE.txt'.
+#   the terms contained in the file 'LICENSE.txt'.
 
 
 from astropy.io import fits
