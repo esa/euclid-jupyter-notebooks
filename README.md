@@ -15,7 +15,7 @@ The [Euclid App](https://euclid.dataspace.esa.int/) is based on JupyterLab and p
 When the Euclid App is launched, the notebooks from this repository are copied to:
 
 ```text
-my_workspace/euclid-jupyterlab-notebooks
+my_workspace/euclid-jupyter-notebooks
 ```
 
 To get the latest version, delete the `euclid-jupyter-notebooks` folder from `my_workspace` and relaunch the Euclid App.
@@ -53,7 +53,8 @@ These notebooks are maintained by their respective developers and are not mainta
 
 ## Documentation and support
 
-- [Euclid Data Space Help Pages]([https://s2e2.cosmos.esa.int/www/euclid_iscience/Public_User_Guide.html](https://euclid.dataspace.esa.int/community/help-pages/EDS_Help_Pages.html))
+- [Euclid Data Space Help Pages](https://euclid.dataspace.esa.int/community/help-pages/EDS_Help_Pages.html))
+- [Euclid Archives User Guide](https://s2e2.cosmos.esa.int/www/euclid_iscience/Public_User_Guide.html)
 - [Euclid DR1 information](https://www.cosmos.esa.int/web/euclid/euclid-dr1)
 - [ESA Datalabs documentation](https://datalabs.esa.int/help/Datalabs.html)
 - [Euclid Helpdesk](https://support.cosmos.esa.int/euclid/)
